@@ -5,7 +5,7 @@ Workshop submission to the Data Curation Conference 2027 ("Don't ghost your data
 ## Contents
 
 - `abstract-workshop.md` - Workshop submission (30 to 50 min), title and abstract to come
-- `references/` - Call for proposals
+- `references/` - Call for proposals (local only, gitignored)
 
 ## Submission
 
