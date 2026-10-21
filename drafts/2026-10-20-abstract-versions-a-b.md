@@ -1,6 +1,6 @@
 # Earlier abstract versions with review notes
 
-Two versions drafted on 20 October 2026 from spoken-draft.md and initial-prompt.md in this folder. Version A is the plain writing version and carries Lars's review notes as TODOs, written on 20 October. Version B is the conventional version. The final abstract in submission/abstract-workshop.qmd combines the shape of A with the terminology of B and resolves the TODOs. Kept for the record.
+Two versions drafted on 20 October 2026 from spoken-draft.md and initial-prompt.md in this folder. Version A is the plain writing version and carries Lars's review notes as TODOs, written on 20 October. Version B is the conventional version. The final abstract in submission/abstract-workshop-dcc-2027.qmd combines the shape of A with the terminology of B and resolves the TODOs. Kept for the record.
 
 ## Version A (plain writing), with the review notes as TODOs
 

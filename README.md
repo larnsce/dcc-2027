@@ -19,7 +19,7 @@ An AI coding agent (Claude Code with Claude Fable 5.1) drafted the abstract from
 
 ## Folders and files
 
-- `submission/` - The abstract as submitted: `abstract-workshop.qmd` is the source, `abstract-workshop.docx` the rendered file attached to the email
+- `submission/` - The abstract as submitted: `abstract-workshop-dcc-2027.qmd` is the source, `abstract-workshop-dcc-2027.docx` the rendered file attached to the email
 - `ai-disclosure.md` - The full AI disclosure statement
 - `drafts/` - What the abstract was built from: `spoken-draft.md` and `initial-prompt.md`, written without AI, and the two earlier versions with review notes
 - `planning/` - `session-plan.md`, planning notes for the 50 minutes, not part of the submission
