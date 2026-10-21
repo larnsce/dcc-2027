@@ -1,0 +1,24 @@
+---
+id: 2026-10-21-002-review-is-in-these-are-the-edits
+timestamp: 2026-10-21T10:08:55+02:00
+model: claude-fable-5-1
+files_touched:
+  - README.md
+  - abstract-workshop.md
+  - ai-disclosure.md
+  - drafts/2026-10-20-abstract-versions-a-b.md
+  - session-plan.md
+---
+
+review is in, these are the edits:
+
+
+
+Title: From raw data to a website for humans: a live curation workflow with every AI step disclosed
+For five years, Global Health Engineering at ETH Zurich has worked on a data curation and publishing workflow and its tools, for our own data and, through openwashdata, for the wider water, sanitation and health sector. Raw data is processed with versioned code into an analysis ready dataset, with a data dictionary and machine readable metadata, packaged as an R data package, archived with a DOI, and presented on a website with documentation and plots built from the data. Processing and plotting code are published with the data on GitHub under open licences. AI now lets us invest further in the tools, towards a general toolset for others. We publish for machines and humans. I focus on humans, who must still discover, interpret and trust data that machines parse with ease.
+In the workshop I run the workflow live with washr, from a messy raw dataset to a published, curated data package. A coding agent performs the mechanical steps, participants propose documentation changes from their phones, and I merge them live, so every intervention stays visible. They leave with free, open source tools (washr to build, pkgreview to review) for their own data.
+I also bring four open questions, technical, organisational, societal and ethical:
+Oversight. Frontiers sells FAIR² data publication at CHF 5,500 per dataset, curated by an AI data steward on a closed platform. How much the author still checks is unclear. In our workflow every AI step is visible.
+Disclosure. We record how AI contributed to each output, in commit trailers and a prompt archive. I show that record for this proposal, the slides and the workshop material, in one public repository.
+Sensitive data. Ours comes from households in low income countries. What may enter a public repository, and when only aggregates may be released, is half-solved for us.
+Rewards. With AI, a paper is drafted in a day from well curated data. Scientific credit should shift towards the data. I invite the room to argue back.

@@ -1,5 +1,5 @@
 ---
-title: "TITLE"
+title: "From raw data to a website for humans: a live curation workflow with every AI step disclosed"
 subtitle: "DCC 2027 workshop submission - RDM Network, University of Basel"
 title-block-banner: true
 date: today
@@ -30,28 +30,22 @@ format:
 ## Submission metadata
 
 - **Conference:** Data Curation Conference 2027, Research Data Management Network, University of Basel, 14 January 2027
-- **Format:** Workshop session (30 to 50 min), hands-on and interactive
+- **Format:** Workshop session (50 min), hands-on and interactive
 - **Presenter:** Lars Schöbitz
-- **Discipline:** TODO
-- **Use case:** TODO
-- **Data curation aspect(s):** TODO (for example documentation, formats, metadata, versioning, FAIR, AI-assisted curation, sensitive data)
+- **Discipline:** Global health engineering (water, sanitation and health)
+- **Use case:** Survey and monitoring data from the water, sanitation and health sector, from the raw file to a published data package and website
+- **Length:** 346 words including the title (limit 350)
+- **Data curation aspect(s):** Presentation of data to humans, documentation, versioning, metadata, AI assisted curation with disclosure, sensitive data
 
 ## Abstract
 
-<!-- Max. 350 words including the title. The call asks for: discipline, use case, data curation aspect(s). Half-solved problems and open questions are welcome. -->
+For five years, Global Health Engineering at ETH Zurich has worked on a data curation and publishing workflow and its tools, for our own data and, through openwashdata, for the wider water, sanitation and health sector. Raw data is processed with versioned code into an analysis ready dataset, with a data dictionary and machine readable metadata, packaged as an R data package, archived with a DOI, and presented on a website with documentation and plots built from the data. Processing and plotting code are published with the data on GitHub under open licences. AI now lets us invest further in the tools, towards a general toolset for others. We publish for machines and humans. I focus on humans, who must still discover, interpret and trust data that machines parse with ease.
 
-TODO: the problem or question the room works on
+In the workshop I run the workflow live with washr, from a messy raw dataset to a published, curated data package. A coding agent performs the mechanical steps, participants propose documentation changes from their phones, and I merge them live, so every intervention stays visible. They leave with free, open source tools (washr to build, pkgreview to review) for their own data.
 
-TODO: the use case it comes from
+I also bring four open questions, technical, organisational, societal and ethical:
 
-TODO: what participants do in the session (hands-on, interactive)
-
-TODO: what participants take away
-
-## Session plan
-
-<!-- Not part of the submission; for planning the 30 to 50 minutes. -->
-
-| Time | Block | What happens |
-|---|---|---|
-| | | |
+- Oversight. Frontiers sells FAIR² data publication at CHF 5,500 per dataset, curated by an AI data steward on a closed platform. How much the author still checks is unclear. In our workflow every AI step is visible.
+- Disclosure. We record how AI contributed to each output, in commit trailers and a prompt archive. I show that record for this proposal, the slides and the workshop material, in one public repository.
+- Sensitive data. Ours comes from households in low income countries. What may enter a public repository, and when only aggregates may be released, is half-solved for us.
+- Rewards. With AI, a paper is drafted in a day from well curated data. Scientific credit should shift towards the data. I invite the room to argue back.
