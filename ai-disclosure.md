@@ -15,14 +15,14 @@ An AI coding agent drafted the workshop abstract from two documents I wrote myse
 
 - Read context from my personal knowledge base: the group's data publishing workflow, the washr and pkgreview tools, and my notes on publisher AI curation services and on AI disclosure.
 - Read two public web pages on 20 October 2026: the Frontiers page on FAIR² data management, to check the price and the AI data steward named in the abstract, and the RDM Network page of the University of Basel, to understand the audience.
-- Wrote two abstract versions from spoken-draft.md and initial-prompt.md, one in plain language and one in conventional academic language, each within the 350 word limit.
+- Wrote two abstract versions from drafts/spoken-draft.md and drafts/initial-prompt.md, one in plain language and one in conventional academic language, each within the 350 word limit.
 - Combined the two into the final version after I asked for the shape of the first and the terminology of the second, and worked my five review notes into it.
 - Applied one wording change from a reviewer.
-- Rendered the docx, wrote session-plan.md, updated README.md, drafted the submission email and drafted this statement.
+- Rendered the docx, wrote planning/session-plan.md, wrote README.md, drafted the submission email and drafted this statement.
 
 ## What I did
 
-- Wrote spoken-draft.md and initial-prompt.md without AI and committed them myself.
+- Wrote drafts/spoken-draft.md and drafts/initial-prompt.md without AI and committed them myself.
 - Decided to combine the two versions, wrote the review notes in drafts/2026-10-20-abstract-versions-a-b.md, and named the audience.
 - Read and approved every version of the abstract. The final text is my responsibility.
 - Chose which prompts to archive. The archive is selective: it holds the prompts I selected at each commit, not every message.
