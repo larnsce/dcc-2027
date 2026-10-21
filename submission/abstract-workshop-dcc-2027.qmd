@@ -1,7 +1,6 @@
 ---
 title: "From raw data to a website for humans: a live curation workflow with every AI step disclosed"
 subtitle: "DCC 2027 workshop submission - RDM Network, University of Basel"
-title-block-banner: true
 date: today
 author:
   - name: Lars Schöbitz
@@ -16,12 +15,6 @@ author:
     attributes:
       corresponding: true
 format:
-  html:
-    toc: true
-    toc-depth: 2
-    number-sections: false
-    embed-resources: true
-    theme: cosmo
   docx:
     toc: false
     number-sections: false
